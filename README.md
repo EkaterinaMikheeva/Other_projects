@@ -1,6 +1,7 @@
 # Проекты не по работе и не по учебе. Развитие скиллов
 
 
+| Название проекта  | Задача |Библиотеки | Ссылка
 | ------ | ------ |------ |------ |
 | Карьерный цех | EDA  данных и подготовка трех метрик для ежедневного контроля, отправка через telegram - бота | pandas, matplotlib, sqlalchemy,math, telebot |https://github.com/EkaterinaMikheeva/Other_projects/tree/main/01_Career_factory
 | Парсер вакансий telegram каналов и подготовка дашборда  | написатть парсер по заданным каналам, EDA, анализ текста, подготовка дашборда  | requests, numpy , BeautifulSoup, seaborn ,pandas ,json,datetime ,re,nltk, string, wordcloud |https://github.com/EkaterinaMikheeva/Other_projects/tree/main/02_Parser_tg_dashboard|
